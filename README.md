@@ -2,7 +2,7 @@
 
 Vulnerabilities for usermin 1.850 and prior.
 
-## Code Execution 1 - CVE-2022-?????
+## Code Execution 1 - CVE-2022-35132
 Type: Authenticated code execution
 
 A authenticated user can execute commands using the GPG module. This is useful if the shell module has been restricted for that user.
